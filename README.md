@@ -26,14 +26,9 @@
 <a href="https://velog.io/@yebind">
   <img src="https://img.shields.io/badge/velogBlog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@yebind"/>
 </a>
-</div>
-
-</br>
-<div align="center">
-
-#### 📧Email
-yebind3308@gmail.com
-
+<a href="mailto:yebind3308@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:yebind3308@gmail.com"/>
+</a>
 </div>
 
 <br/>
