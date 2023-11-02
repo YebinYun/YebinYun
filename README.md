@@ -37,15 +37,15 @@
 <div align="center">
 
 <a href="mailto:yebind3308@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:yebind3308@gmail.com"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:yebind3308@gmail.com"/>
 </a>
 
 <a href="https://velog.io/@yebind">
-  <img src="https://img.shields.io/badge/VelogBlog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@yebind"/>
+  <img src="https://img.shields.io/badge/VelogBlog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@yebind"/>
 </a>
 
 <a href="https://yebinyun.github.io/Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-EF2D5E?style=flat-square&logo=internetcomputer&logoColor=white&link=https://yebinyun.github.io/Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-EF2D5E?style=flat&logo=internetcomputer&logoColor=white&link=https://yebinyun.github.io/Portfolio"/>
 </a>
 
 </div>
