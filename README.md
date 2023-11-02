@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YebinYun&layout=donut&theme=shadow_green)](https://github.com/YebinYun/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YebinYun&layout=donut&theme=vue)](https://github.com/YebinYun/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YebinYun&show_icons=true&theme=vue)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">  
   
-#### 📚Tech Stack
+### 📚Tech Stack
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
   
-#### ✉️SNS
+### ✉️SNS
 
 </div>
 
@@ -44,8 +44,8 @@
   <img src="https://img.shields.io/badge/VelogBlog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@yebind"/>
 </a>
 
-<a href="https://velog.io/@yebind">
-  <img src="https://img.shields.io/badge/Portfolio-20C997?style=flat-square&logo=Portfolio&logoColor=white&link=https://velog.io/@yebind"/>
+<a href="https://yebinyun.github.io/Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-EF2D5E?style=flat-square&logo=internetcomputer&logoColor=white&link=https://yebinyun.github.io/Portfolio"/>
 </a>
 
 </div>
